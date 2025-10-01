@@ -1,5 +1,9 @@
+Guide de Survie Étudiant - Orléans
+
+Équipe de Développement :
+
 # coda-git-groupe-8
-Enzo rouet 
+Enzo Rouet 
 Kenzo Trindade  
-Maxime petit
+Maxime Petit
 Timothée Tomas 
