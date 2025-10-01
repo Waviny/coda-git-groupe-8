@@ -2,6 +2,17 @@
 
 
 
+SOS Médecins Orléan : 02 38 54 44 44
+SOS Mains Orléans : 02 38 79 60 95
+
+
+
+Préfecture : 01.23.45.67.89
+Assurance maladie : 3646
+
+
+
+
 
 
 
@@ -22,4 +33,12 @@ Bus tardifs ou service de nuit : Ligne 1N et 2N, arrêt Gare
 
 
 
+06.47.89.63.47
+06.20.18.84.52
+
+
+
 02.02.02.02.02
+02/02/02/02/02
+02-02-02-02-02
+02 02 02 02 02
