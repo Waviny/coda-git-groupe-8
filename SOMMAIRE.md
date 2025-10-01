@@ -5,3 +5,4 @@
 - Restauration → ./resto/
 - Transport → ./transport/
 - Études → ./etudes/
+Timothee TOMAS
