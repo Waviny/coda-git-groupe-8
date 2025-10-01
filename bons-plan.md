@@ -36,7 +36,6 @@ West garden
 =======
 Les Fils À Maman Orléans
 Well in Town
-=======
 Au Bouillon
 West garden
 >>>>>>> f1444520c0e1268173a7880ca74e0f01d0ec0174
@@ -53,7 +52,6 @@ Pl. du Châtelet
 >>>>>>> 8c66cbb0212cb4ae9f7111c3cc86acde17396378
 =======
 2 Rue Nicolas Copernic
-=======
 Pl. du Châtelet
 >>>>>>> f1444520c0e1268173a7880ca74e0f01d0ec0174
 >>>>>>> 2828e49f895b2563d00719e806bf6e721491b601
