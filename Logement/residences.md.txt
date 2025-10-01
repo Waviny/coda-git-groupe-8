@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 RESIDENCE ETUDIANTE Odalys Campus. A partir de 488€/mois.
 RESIDENCE ETUDIANTE TWENTY CAMPUS. A partir de 450€/mois.
 RESIDENCE ETUDIANTE SERGIC. A partir de 435€/mois.
 RESIDENCE ETUDIANTE SARL RESIDENCE CONDORCET. A partir de 529€/mois.
 RESIDENCE ETUDIANTE Sergic 123 à partir de 300€/mois.
+=======
+RESIDENCE ETUDIANTE Odalys Campus. A partir de 488€/mois. Résidence Odalys Saint Jean. ...
+RESIDENCE ETUDIANTE TWENTY CAMPUS. A partir de 450€/mois. ...
+RESIDENCE ETUDIANTE SERGIC. A partir de 435€/mois. ...
+RESIDENCE ETUDIANTE SARL RESIDENCE CONDORCET. A partir de 529€/mois.
+residence 123 sarl 500€/mois.
+>>>>>>> 8c66cbb0212cb4ae9f7111c3cc86acde17396378
 

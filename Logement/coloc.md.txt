@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Préparée votre dossier
 Valorisez votre sérieux.
 Soignez votre caution.
 N'attendez pas le dernier moment.
 cherchez à fond
+=======
+    Préparez votre dossier. Pour chaque annonce publiée, les propriétaires sont vite submergés de candidatures, ils doivent donc les filtrer très rapidement. ...
+    Valorisez votre sérieux. ...
+    Soignez votre caution. ...
+    N'attendez pas le dernier moment.
+>>>>>>> 8c66cbb0212cb4ae9f7111c3cc86acde17396378
